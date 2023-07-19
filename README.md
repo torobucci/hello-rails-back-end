@@ -2,7 +2,8 @@
 
 # 📗 Table of Contents
 
-- [📖 hello-rails-front-end](#budget-app)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖  **hello-rails-back-end**](#--hello-rails-back-end)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -21,9 +22,9 @@
 
 # 📖  <a name="budget-app">**hello-rails-back-end**</a>
   A simple rails API that displays random messages on random_messages endpoint.
-  
+
   Check out my [hello-react-front-end](https://github.com/torobucci/hello-react-front-end) built using this API
-  
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -39,7 +40,7 @@
 - **Controller**
 - **random_messages endpoint**
 
- <p align="right">(<a href="#readme-top">back to top</a>)</p> 
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -132,4 +133,4 @@ I would like to thank Microverse for this project.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/torobucci/My-Portfolio/blob/main/MIT-LICENSE.txt) licensed.
+This project is [MIT](./MIT-LICENSE.txt) licensed.
